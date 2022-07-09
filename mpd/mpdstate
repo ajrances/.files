@@ -1,0 +1,68 @@
+sw_volume: 100
+audio_device_state:1:ALSA Output
+audio_device_state:1:my_fifo
+state: stop
+current: 13
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Pentakill/Pentakill - Smite and Ignite - 01 Lightbringer - 320kbps.mp3
+1:Pentakill/Pentakill - Smite and Ignite - 04 Last Whisper - 320kbps.mp3
+2:Pentakill/Pentakill - Smite and Ignite - 01 Lightbringer - 320kbps.mp3
+3:Pentakill/Pentakill - Smite and Ignite - 02 Deathfire Grasp - 320kbps.mp3
+4:Pentakill/Pentakill - Smite and Ignite - 03 Ohmwrecker - 320kbps.mp3
+5:Pentakill/Pentakill - Smite and Ignite - 04 Last Whisper - 320kbps.mp3
+6:Pentakill/Pentakill - Smite and Ignite - 06 The Prophecy - 320kbps.mp3
+7:Pentakill/Pentakill - Smite and Ignite - 07 Thornmail - 320kbps.mp3
+8:Pentakill/Pentakill - Smite and Ignite - 08 Orb Of Winter - 320kbps.mp3
+9:playlists/alt-J - Breezeblocks.mp3
+10:playlists/The Weeknd - Save Your Tears.mp3
+11:playlists/The Neighbourhood - West Coast.mp3
+12:playlists/Boyzone - Every Day I Love You.mp3
+13:playlists/Chet Faker - Gold.mp3
+14:playlists/Boyzone - No Matter What.mp3
+15:playlists/Boyzone - I Love The Way You Love Me.mp3
+16:playlists/Broken Back - Lady Bitterness.mp3
+17:playlists/Marc Philippe - Dancer in the Dark.mp3
+18:playlists/Wankelmut, Emma Louise - My Head Is a Jungle - (Radio Edit) [Live].mp3
+19:playlists/Dave Not Dave - Cold Blood.mp3
+20:playlists/Oh The Larceny - Man on a Mission.mp3
+21:playlists/MICAR - This Time It's My Life - Radio Edit.mp3
+22:playlists/Ash - Una Mattina.mp3
+23:playlists/Arctic Monkeys - Why'd You Only Call Me When You're High.mp3
+24:playlists/Outlandish - Callin' U.mp3
+25:playlists/The Blaze - Territory.mp3
+26:playlists/The xx - Dangerous.mp3
+27:playlists/Fall Out Boy - Centuries.mp3
+28:playlists/The Weeknd - Blinding Lights.mp3
+29:playlists/Arctic Monkeys - Do I Wanna Know.mp3
+30:playlists/Fall Out Boy - Immortals.mp3
+31:playlists/Andra - Why.mp3
+32:playlists/Offset, Metro Boomin - Ric Flair Drip (with Metro Boomin).mp3
+33:playlists/Chevelle - The Red.mp3
+34:playlists/Kungs, Ephemerals - I Feel So Bad.mp3
+35:playlists/Santiano - Gott muss ein Seemann sein.mp3
+36:playlists/The Script - Hall of Fame (feat. will.i.am).mp3
+37:playlists/Drake - Passionfruit.mp3
+38:playlists/アトラスサウンドチーム - Keeper of Lust.mp3
+39:playlists/Blackmill - The Drift.mp3
+40:playlists/Zack Hemsey - The Runner.mp3
+41:playlists/Martin Garrix, Bono, The Edge - We Are The People (Martin Garrix Remix) (feat. Bono & The Edge) - Official UEFA EURO 2020 Song.mp3
+42:playlists/Coldplay - Hymn for the Weekend.mp3
+43:playlists/Twenty One Pilots - Car Radio.mp3
+44:playlists/Thousand Foot Krutch - Untraveled Road.mp3
+45:playlists/Andra, Mara - Sweet Dreams.mp3
+46:playlists/Jerry Folk - I'm Honestly Not a Gangster.mp3
+47:playlists/Blackmill - Lucid Truth.mp3
+48:playlists/Thousand Foot Krutch - Be Somebody.mp3
+49:playlists/Jeff Bernat - Cruel.mp3
+50:playlists/Mac Ayres - Easy.mp3
+51:playlists/Chris Walker - How Do You Heal a Broken Heart.mp3
+52:playlists/Dan Seals - One Friend.mp3
+53:playlists/平田志穂子 - Never More.mp3
+playlist_end
